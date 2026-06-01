@@ -31,7 +31,7 @@ This installation creates a complete DVSwitch bridge connecting DMR networks to 
 ├─────────────────────────────────────────────────────────────────┤
 │                                                                 │
 │   ┌──────────────┐      ┌──────────────┐      ┌──────────────┐  │
-│   │  MMDVM_      │─────▶│   Analog     │─────▶│   md380-    │  │
+│   │  MMDVM_      │────▶│   Analog     │─────▶│   md380-     │  │
 │   │  Bridge      │      │   Bridge     │      │   emu        │  │
 │   │              │      │              │      │              │  │
 │   │ • DMR Net    │      │ • USRP       │      │ • AMBE       │  │
