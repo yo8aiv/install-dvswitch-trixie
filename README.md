@@ -69,7 +69,7 @@ This installation creates a complete DVSwitch bridge connecting DMR networks to 
 #### 1️⃣ Download the Script
 ```bash
 cd ~
-wget https://raw.githubusercontent.com/YOUR_USERNAME/dvswitch-trixie/main/install-dvswitch-trixie.sh
+wget https://raw.githubusercontent.com/yo8aiv/dvswitch-trixie/main/install-dvswitch-trixie.sh
 chmod +x install-dvswitch-trixie.sh
 ```
 
