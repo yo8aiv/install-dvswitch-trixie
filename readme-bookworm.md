@@ -8,11 +8,15 @@
 Automated installer for **DVSwitch Server** components (`MMDVM_Bridge`, `Analog_Bridge`, `md380-emu`) on **Debian 12 (Bookworm)** and **Debian 13 (Trixie)**. :
 
 
-## 🛠️ Installation
+Installation Steps
+####  1️⃣ Download the Script
 
-### Method 1: Clone and Run (Recommended)
-
-1. **Clone the repository**:
-   ```bash
+```bash
    wget https://raw.githubusercontent.com/yo8aiv/install-dvswitch-trixie/main/install-dvswitch-bookworm.sh
    chmod +x install-dvswitch-bookworm.sh
+```
+#### 2️⃣ Run the Installer
+```bash
+   sudo ./install-dvswitch-trixie.sh
+```
+⏳ *Compilation takes approximately 5-10 minutes depending on hardware.*
