@@ -13,12 +13,13 @@
      C r e a t e d   a n d   O p t i m i z e d   by   Y O 8 A I V
 ```
 
-[![Debian Trixie](https://img.shields.io/badge/OS-Debian_13_Trixie-d70a53?style=for-the-badge&logo=debian)](https://www.debian.org/)
-[![License](https://img.shields.io/badge/License-ISC-blue?style=for-the-badge)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Production_Ready-brightgreen?style=for-the-badge)]()
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Debian 12](https://img.shields.io/badge/Debian-12%20(Bookworm)-red.svg)](https://www.debian.org/)
+[![Debian 13](https://img.shields.io/badge/Debian-13%20(Trixie)-blue.svg)](https://www.debian.org/)
+[![GitHub Stars](https://img.shields.io/github/stars/yo8aiv/install-dvswitch-trixie?style=social)](https://github.com/yo8aiv/install-dvswitch-trixie)
 
-> **⚠️ Important:** This script compiles **MMDVM_Bridge**, **Analog_Bridge**, and **md380-emu** from source because official binaries are not yet available for Debian 13.
 
+> **⚠️ Automated installer for DVSwitch Server components (MMDVM_Bridge, Analog_Bridge, md380-emu) on Debian 12 (Bookworm) and Debian 13 (Trixie). This script compiles **MMDVM_Bridge**, **Analog_Bridge**, and **md380-emu** from source because official binaries are not yet available for Debian 13.
 ---
 
 ## 🗺️ Architecture Overview
