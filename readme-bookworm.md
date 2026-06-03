@@ -17,6 +17,6 @@ Installation Steps
 ```
 #### 2️⃣ Run the Installer
 ```bash
-   sudo ./install-dvswitch-trixie.sh
+   sudo ./install-dvswitch-bookworm.sh
 ```
 ⏳ *Compilation takes approximately 5-10 minutes depending on hardware.*
